@@ -7,8 +7,8 @@ body {
     background-color: aliceblue;
 }
 
-.navbar{
-    background-color: aliceblue;
+.navbar-brand{
+    background-color: rgb(255, 255, 255);
 }
 
 #cats{
